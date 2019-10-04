@@ -4,10 +4,10 @@ export default class Step5 extends Component{
     render() {
         return (
             <React.Fragment>
-                <div id="total-cost" class="content-step">
+                <div id="total-cost" className="content-step">
                     <h2>Total Cost</h2>
 
-                    <dl class="breakdown">
+                    <dl className="breakdown">
                         <dt>Dimensions &amp; Quantity:</dt>
                         <dd>3 &times; 10(W)&times;15.5(H)&times;13.24(L)</dd>
 
